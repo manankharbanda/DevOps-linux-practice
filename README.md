@@ -1,1 +1,1 @@
-# solidityPractice
+# DevOps-linux-practice
